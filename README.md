@@ -9,9 +9,11 @@ An interpreter is a program that executes code line-by-line, translating it dire
 
 A compiler is a program that translates the entire source code of a programming language into machine code before execution.
 What is a token ?
+
 In programming languages, a token is the smallest unit of meaningful data that the compiler or interpreter can process. 
 Types of Tokens
-Keywords: Reserved words that have a specific meaning in the language syntax.
+
+**Keywords:** Reserved words that have a specific meaning in the language syntax.
 Examples: if, while, return, class in languages like C++, Java, and Python.
 Identifiers: Names given to various program elements such as variables, functions, arrays, etc.
 Examples: myVariable, calculateSum, Student.
