@@ -1,6 +1,6 @@
-age = 17
-is_citizen = True
-criminal_record = False
+age = 19 
+is_citizen = True 
+criminal_record = True
 
 if age >= 18 and is_citizen and not criminal_record:
     print("You are eligible to vote.")
