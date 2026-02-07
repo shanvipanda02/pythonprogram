@@ -30,4 +30,5 @@ Comments: Annotations in the code that are ignored by the compiler.
 Examples: // This is a single-line comment (in C++, Java), /* This is a multi-line comment */
 What is python instruction ?
 
+112233
 A Python instruction is a single line of code that performs a specific action or operation in a Python program.
